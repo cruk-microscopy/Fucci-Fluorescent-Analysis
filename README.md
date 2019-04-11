@@ -20,4 +20,4 @@ Refers to the <help> button for more information when running the plugin.
   <&nbsp>The plugin will use these parameters to build a trackmate model<br>
   and run it on the given image stack. The result will be displayed.<br>
   as a ResultTable named \Fucci cell tracking data table\,<br>
-   Detected track-spots will be stored as circle ROI in RoiManager.<br>;
+   Detected track-spots will be stored as circle ROI in RoiManager.<br>
